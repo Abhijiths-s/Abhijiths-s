@@ -91,4 +91,3 @@
 
 ---
 
-⭐ *Focused on building real-world projects and continuously improving.*
